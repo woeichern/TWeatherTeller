@@ -1,0 +1,12 @@
+{
+  "toNotify": [
+    {
+      "country": "新竹縣",
+      "location": "竹北市"
+    },
+    {
+      "country": "臺北市",
+      "location": "中山區"
+    }
+  ]
+}
